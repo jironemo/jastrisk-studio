@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="14" fill="#0b0f19"/>
+  <!-- J shape -->
+  <path d="M34 15H25V36C25 41.5 21 43.5 16 42.5V48.5C24.5 49.8 34 45.8 34 36V15Z" fill="#ffffff"/>
+  <!-- Red Asterisk * -->
+  <g transform="translate(43, 20)" stroke="#ef4444" stroke-width="3.5" stroke-linecap="round">
+    <line x1="0" y1="-8" x2="0" y2="8"/>
+    <line x1="-6.93" y1="-4" x2="6.93" y2="4"/>
+    <line x1="-6.93" y1="4" x2="6.93" y2="-4"/>
+  </g>
+</svg>
